@@ -1,0 +1,27 @@
+{
+  "name": "node-node-monitor-monitor",
+  "version": "0.1.0",
+  "description": "A group monitor of node-node-monitor instances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/node-node-monitor-monitor.git"
+  },
+  "keywords": [
+    "node",
+    "monitor",
+    "network",
+    "group",
+    "resources",
+    "uptime"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/node-node-monitor-monitor/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/node-node-monitor-monitor#readme"
+}
